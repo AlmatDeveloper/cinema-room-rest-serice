@@ -12,6 +12,9 @@ files:
         }
     }
   learner_created: false
-feedback_link: https://hyperskill.org/learn/step/2735#comment
+feedback_link: https://hyperskill.org/learn/step/2170#comment
 status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 17 Jul 2022 13:17:57 UTC
 record: -1
